@@ -168,16 +168,12 @@ python main.py --user elevebf01 --alpha 0.1
 
 ## 7. Comment exécuter (reproductibilité)
 
-### 7.1. Structure du projet
-
-Placer les fichiers dans `data/` selon la structure attendue.
-
-### 7.2. Lancement
+### 7.1. Lancement
 
 ```bash
 python main.py --user elevebf01 --alpha 0.1
 ```
 
-### 7.3. Sorties
+### 7.2. Sorties
 
 Les CSV de sortie sont générés dans `outputs/` (vecteur HEXAD, vecteur Motivation, combinaison).
