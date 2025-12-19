@@ -181,11 +181,3 @@ python main.py --user elevebf01 --alpha 0.1
 ### 7.3. Sorties
 
 Les CSV de sortie sont générés dans `outputs/` (vecteur HEXAD, vecteur Motivation, combinaison).
-
----
-
-## 8. Livrables à rendre
-
-- **Texte Question 1** (commentaire de 2 matrices PLS) : section 3 de ce README
-- **Code Python** : `main.py` + `src/recommender.py` + dossier `data/` (ou au minimum les scripts + instructions)
-- **Résultats d'exécution** : tables de la section 5 (ou CSV dans `outputs/`)
